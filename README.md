@@ -1,4 +1,8 @@
-### Hi there 👋
+###
+- 🌱 First year Computer Science Student
+- 🎮 Game Development Society member
+- 💌 Current interests are software development and artificial intelligence
+- 🐈 Cat owner
 
 <!--
 **marroyol/marroyol** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
