@@ -1,8 +1,9 @@
 ###
-- 🌱 First year Computer Science Student
-- 🎮 Game Development Society member
+- 🌿 Upcoming second year (2023-2024) Computer Science Student
 - 💌 Current interests are software development and artificial intelligence
-- 🐈 Cat owner
+- 🐈 Cat owner (his name is Paz and he's a brown tabby!)
+- 📖 Last read book: Machines That Think (New Scientist)
+- 💻 Working on: a time management desktop app called ClowderTask
 
 <!--
 **marroyol/marroyol** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
