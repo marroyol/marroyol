@@ -1,10 +1,11 @@
-###
-- 🌿 Second year (2023-2024) Computer Science Student
+### Hi there!
+- 🌿 Placement year Computer Science Student
 - 💌 Current interests are the cloud and artificial intelligence
 - 🐈 Cat owner (his name is Paz and he's a brown tabby!)
-- 📖 Last read book: Machines That Think (New Scientist)
-- 💻 Working on: learning more about Azure!
+- 📖 Currently reading: The Savage Detectives by Roberto Bolaño
+- 💻 Working on: Playing with Semantic Kernel
 
+Most of my repos are currently private so there's not a lot to see here (yet!).
 <!--
 **marroyol/marroyol** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
